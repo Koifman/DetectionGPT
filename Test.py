@@ -3,7 +3,7 @@ import requests
 import yaml
 import json
 
-openai.api_key = "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"
+openai.api_key = "ENTER YOUR KEY HERE"
 
 # Function to retrieve SIGMA rule from a YAML file
 def get_sigma_rule_from_yaml(yaml_url):
