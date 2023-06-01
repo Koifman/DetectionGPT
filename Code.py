@@ -1,7 +1,6 @@
 import openai
 import requests
 import yaml
-import json
 import subprocess
 import time
 
